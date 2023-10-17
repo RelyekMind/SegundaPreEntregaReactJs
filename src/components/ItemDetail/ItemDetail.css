@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  overflow: hidden;
+}
+.producto-detalle {
+  font-family: "Montserrat", sans-serif;
+  padding-block: 2rem;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 2rem;
+  align-items: center;
+}
+
+.producto-detalle img {
+  width: 100%;
+  border-radius: 1rem;
+}
+.producto-descripcion {
+  background-color: rgba(248, 244, 244, 0.9);
+  border-radius: 1rem;
+  padding-left: 2rem;
+}
+.nombre {
+  color: rgb(58, 58, 58);
+}

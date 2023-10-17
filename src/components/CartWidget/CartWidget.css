@@ -1,0 +1,17 @@
+.icono-carrito {
+  cursor: pointer;
+  width: 3.5rem;
+  position: relative;
+}
+
+.cart-item-count {
+  background-color: rgba(248, 244, 244, 0.8);
+  padding: 5px 10px;
+  font-size: 15px;
+  border-radius: 50%;
+  cursor: pointer;
+  position: absolute;
+  top: 6%;
+  right: 1%;
+  border: solid 1px rgb(58, 58, 58);
+}

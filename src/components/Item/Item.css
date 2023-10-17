@@ -1,0 +1,36 @@
+.producto {
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.producto > div {
+  padding: 1rem;
+  color: rgb(58, 58, 58);
+  background-color: rgba(248, 244, 244, 0.9);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.producto > img {
+  width: 100%;
+  aspect-ratio: 2/1.5;
+  object-fit: cover;
+}
+
+.producto .ver-mas {
+  text-decoration: none;
+  background-color: var(--clr-main);
+  color: white;
+  padding: 0.5rem;
+  width: max-content;
+  border-radius: 0.5rem;
+  transition: 0.2s;
+}
+
+.producto .ver-mas:hover {
+  background-color: rgb(58, 58, 58);
+  color: white;
+}

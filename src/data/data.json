@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "categoria": "Mouse",
+    "titulo": "Lamzu Atlantis Mini 4k White",
+    "precio": 5000,
+    "img": "../img/mouse01.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 2,
+    "categoria": "Mouse",
+    "titulo": "PWNAGE StormBreaker Magnesium Negro",
+    "precio": 5000,
+    "img": "../img/mouse02.png",
+    "descripcion": ""
+  },
+  {
+    "id": 3,
+    "categoria": "Mouse",
+    "titulo": "Pulsar X2 Mini Premium Black",
+    "precio": 5000,
+    "img": "../img/mouse03.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 4,
+    "categoria": "Mouse",
+    "titulo": "Pulsar X2 Wireless Red Edition",
+    "precio": 5000,
+    "img": "../img/mouse04.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 5,
+    "categoria": "Mouse",
+    "titulo": "Pulsar X2 BruceLee Limited",
+    "precio": 5000,
+    "img": "../img/mouse05.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 6,
+    "categoria": "Mouse",
+    "titulo": "LAMZU Atlantis Mini 4k Black",
+    "precio": 5000,
+    "img": "../img/mouse06.jpg",
+    "descripcion": "Bizcochuelo de chocolate, almibar de kirch, cerezas al marraschino, crema chantilly y virutas de chocolate. "
+  },
+  {
+    "id": 7,
+    "categoria": "Mousepads",
+    "titulo": "Pulsar ES1 Mousepad BruceLee Limited Edition",
+    "precio": 5000,
+    "img": "../img/mousepad06.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 8,
+    "categoria": "Mousepads",
+    "titulo": "ParaControl V2 Mousepad XL Black",
+    "precio": 5000,
+    "img": "../img/mousepad05.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 9,
+    "categoria": "Mousepads",
+    "titulo": "ParaControl V2 Mousepad XXL Black",
+    "precio": 5000,
+    "img": "../img/mousepad04.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 10,
+    "categoria": "Mousepads",
+    "titulo": "Mousepad Gamer FocusGG Ambition",
+    "precio": 5000,
+    "img": "../img/mousepad03.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 11,
+    "categoria": "Mousepads",
+    "titulo": "Mousepad Pulsar ES2 Black",
+    "precio": 5000,
+    "img": "../img/mousepad02.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 12,
+    "categoria": "Mousepads",
+    "titulo": "Mousepad Gamer Pulsar Superglide XL",
+    "precio": 5000,
+    "img": "../img/mousepad01.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 13,
+    "categoria": "Teclados",
+    "titulo": "Varmilo MA87M KOI",
+    "precio": 5000,
+    "img": "../img/teclado01.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 14,
+    "categoria": "Teclados",
+    "titulo": "Teclado Mecánico Inalambrico KAI Rosado",
+    "precio": 5000,
+    "img": "../img/teclado02.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 15,
+    "categoria": "Teclados",
+    "titulo": "Varmilo MA87M Lovebirds-I",
+    "precio": 5000,
+    "img": "../img/teclado03.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 16,
+    "categoria": "Teclados",
+    "titulo": "Teclado mecánico Akko 5075B Plus 75% RGB",
+    "precio": 5000,
+    "img": "../img/teclado04.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 17,
+    "categoria": "Teclados",
+    "titulo": "Teclado mecánico Fogruaden 75% NKRO Matcha",
+    "precio": 5000,
+    "img": "../img/teclado05.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 18,
+    "categoria": "Teclados",
+    "titulo": "Teclado Glorious GMMK Compact (60%)",
+    "precio": 5000,
+    "img": "../img/teclado06.jpg",
+    "descripcion": ""
+  }
+]

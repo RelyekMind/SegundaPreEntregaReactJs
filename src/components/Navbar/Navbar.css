@@ -1,0 +1,40 @@
+.navbar {
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(248, 244, 244, 0.8);
+  border-bottom: 3px solid rgb(58, 58, 58);
+  font-family: "Montserrat", sans-serif;
+}
+
+.logo {
+  text-decoration: none;
+  color: rgb(58, 58, 58);
+}
+
+.menu {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.menu-link {
+  text-decoration: none;
+  color: rgb(58, 58, 58);
+  font-size: 1.2rem;
+}
+
+.menu-link:hover {
+  text-decoration: underline;
+}
+
+.img-logo {
+  width: 4rem;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
