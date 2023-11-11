@@ -7,8 +7,8 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <Link to="/" className="logo">
-        <img src="../img/rcicon.png " alt="" className="img-logo"></img>
-        <h1>Redcats Store</h1>
+        <img src="../img/iconos/rcicon.png " alt="" className="img-logo"></img>
+        <h1>RedCats Store</h1>
       </Link>
       <ul className="menu">
         <li>
@@ -22,18 +22,33 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link className="menu-link" to="/productos/Mouse">
+          <Link className="menu-link" to="/productos/mouse">
             Mouse
           </Link>
         </li>
         <li>
-          <Link className="menu-link" to="/productos/Teclados">
+          <Link className="menu-link" to="/productos/mousepads">
+            Mousepads
+          </Link>
+        </li>
+        <li>
+          <Link className="menu-link" to="/productos/teclados">
             Teclados
           </Link>
         </li>
         <li>
-          <Link className="menu-link" to="/productos/Mousepads">
-            Mousepads
+          <Link className="menu-link" to="/productos/monitores">
+            Monitores
+          </Link>
+        </li>
+        <li>
+          <Link className="menu-link" to="/productos/auriculares">
+            Auriculares
+          </Link>
+        </li>
+        <li>
+          <Link className="menu-link" to="/contacto">
+            Contacto
           </Link>
         </li>
       </ul>

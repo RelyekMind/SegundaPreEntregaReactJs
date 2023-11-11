@@ -22,7 +22,7 @@
 
 .producto .ver-mas {
   text-decoration: none;
-  background-color: var(--clr-main);
+  background-color: red;
   color: white;
   padding: 0.5rem;
   width: max-content;
@@ -31,6 +31,6 @@
 }
 
 .producto .ver-mas:hover {
-  background-color: rgb(58, 58, 58);
+  background-color: black;
   color: white;
 }

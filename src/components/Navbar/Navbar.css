@@ -3,7 +3,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: rgba(248, 244, 244, 0.8);
+
   border-bottom: 3px solid rgb(58, 58, 58);
   font-family: "Montserrat", sans-serif;
 }
